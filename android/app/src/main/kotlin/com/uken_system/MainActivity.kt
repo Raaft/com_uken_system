@@ -1,4 +1,4 @@
-package com.uken_system.com_uken_system
+package com.uken_system
 
 import io.flutter.embedding.android.FlutterActivity
 
